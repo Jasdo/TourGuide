@@ -7,9 +7,9 @@ using Xamarin.Forms;
 
 namespace TourGuide.Tourist
 {
-    public class TourGuide.Tourist : ContentPage
+    public class Tourist : ContentPage
 	{
-		public TourGuide.Tourist()
+		public Tourist()
 		{
 			var button = new Button
             {
